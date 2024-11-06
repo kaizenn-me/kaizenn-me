@@ -48,9 +48,14 @@ I'm **Kaizenn** 👋, a passionate **Full Stack Developer & Junior Cyber Securit
 - **Design**: Figma, Adobe XD, InVision
 
 ### 🔒 Cybersecurity
-- **Networking**: TCP/IP, UDP, DNS, HTTP/HTTPS
-- **Security Protocols**: SSL/TLS, OAuth, JWT, encryption techniques
-- **Penetration Testing**: OWASP Top 10, Burp Suite, Nmap
+- **Networking Fundamentals**: Knowledge of TCP/IP, UDP, DNS, HTTP/HTTPS, and routing concepts.
+- **Security Protocols**: Familiarity with SSL/TLS, OAuth, JWT, and encryption techniques for secure data transmission.
+- **Web Security**: Understanding of OWASP Top 10 vulnerabilities (like SQL injection, XSS, CSRF) and basic countermeasures.
+- **Penetration Testing**: Experience with ethical hacking tools (Burp Suite, Nmap, Wireshark) for network and web application testing.
+- **Vulnerability Scanning**: Usage of tools such as Nessus and OpenVAS for identifying system vulnerabilities.
+- **System Hardening**: Basic techniques in securing operating systems, firewalls, and access control.
+- **Threat Analysis**: Familiar with threat modeling and identifying potential attack vectors.
+- **Digital Forensics (Beginner)**: Fundamentals of evidence collection and analysis techniques in a digital investigation.
 
 ---
 
