@@ -13,39 +13,47 @@ I'm **Kaizenn** 👋, a passionate **Full Stack Developer & Junior Cyber Securit
 🌱 **Always eager to grow** (when not being lazy 😜)  
 
 ---
+## 💼 Technical Skills
 
-## 💼 Skills
-
-### 👨‍💻 Programming Languages
-- **JavaScript**: ES6+, TypeScript, functional & OOP principles
-- **Python**: Data processing, automation, web development (Flask, Django)
-- **C++**: Object-oriented programming, system programming
-- **C**: Memory management, embedded systems
-- **Go**: Concurrency, RESTful APIs
-- **PHP**: Backend development, Laravel
-- **SQL**: MySQL, PostgreSQL, query optimization
-- **Shell Scripting**: Bash, command-line automation
+### 👩‍💻 Programming Languages
+- **JavaScript**: ES6+, TypeScript, skilled in both functional and object-oriented programming.
+- **Python**: Expertise in data processing, automation, web development (Flask, Django), and machine learning.
+- **C++**: Proficient in object-oriented programming, system programming, and algorithm optimization.
+- **C**: Memory management, low-level programming, and embedded systems development.
+- **Go**: Strong knowledge of concurrency, RESTful API development, and performance-oriented applications.
+- **PHP**: Backend development, Laravel, and experience with server-side scripting.
+- **SQL**: Proficient in MySQL, PostgreSQL, with a focus on query optimization and complex database design.
+- **Ruby**: Experienced in web development with Ruby on Rails and dynamic scripting.
+- **Java**: Proficient in Java SE/EE, Spring Boot, and enterprise-level application development.
+- **Kotlin**: Android app development, backend services with Ktor.
+- **Rust** (Beginer): Systems programming with a focus on safety, concurrency, and performance.
+- **Swift** (Beginer): iOS application development, SwiftUI, and UI/UX principles.
+- **R** (Beginer): Statistical computing, data analysis, and visualization for data science.
+- **MATLAB** (Beginer): Used for scientific computing, data visualization, and algorithm prototyping.
+- **Perl**: Scripting, text processing, and web development with CGI scripting.
+- **Shell Scripting**: Automation with Bash, Zsh, and cross-platform scripting.
 
 ### 🚀 Frameworks & Libraries
-- **Frontend**: React, Redux, Next.js, TailwindCSS, Bootstrap
-- **Backend**: Node.js, Express, Django, Flask, FastAPI
-- **Testing**: Jest, Mocha, PyTest, Cypress
-- **Data Science**: Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow
+- **Frontend**: React, Redux, Next.js, Vue.js, Angular, TailwindCSS, Bootstrap for responsive and interactive interfaces.
+- **Backend**: Node.js, Express, Django, Flask, FastAPI, Spring Boot, Ruby on Rails, ASP.NET Core, Ktor.
+- **Mobile Development**: Flutter, React Native, SwiftUI for iOS, and Android SDK.
+- **Data Science**: Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Keras for deep learning, and data manipulation.
+- **Testing**: Jest, Mocha, Jasmine, PyTest, JUnit, Selenium, Cypress for unit, integration, and end-to-end testing.
 
 ### 🌐 Tools & Platforms
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
-- **CI/CD**: GitHub Actions, Travis CI, Jenkins
-- **Containerization**: Docker, Kubernetes, Docker Compose
-- **Cloud Services**: AWS (EC2, S3, Lambda), Google Cloud Platform, Firebase
-- **DevOps**: Terraform, Ansible, Prometheus, Grafana
-- **Database Management**: MySQL, PostgreSQL, MongoDB, Redis
-- **APIs**: REST, GraphQL, gRPC
+- **Version Control**: Git, GitHub, GitLab, Bitbucket for collaborative and streamlined development workflows.
+- **CI/CD**: GitHub Actions, Travis CI, CircleCI, Jenkins for automated deployment pipelines.
+- **Containerization**: Docker, Kubernetes, Docker Compose for scalable deployment and container orchestration.
+- **Cloud Services**: AWS (EC2, S3, Lambda, RDS), Google Cloud (App Engine, Cloud Functions), Firebase, Azure for cloud-based applications.
+- **DevOps**: Terraform, Ansible, Prometheus, Grafana for infrastructure as code, monitoring, and automation.
+- **Database Management**: MySQL, PostgreSQL, MongoDB, Redis, Cassandra, Elasticsearch for efficient data storage and retrieval.
+- **APIs**: Proficient in RESTful, GraphQL, and gRPC API design and integration.
 
 ### 🛠 Software & IDEs
-- **IDEs**: VS Code, PyCharm, IntelliJ IDEA, Eclipse
-- **Productivity**: Jira, Trello, Slack, Asana
-- **Documentation**: Swagger, Postman, Jupyter Notebook
-- **Design**: Figma, Adobe XD, InVision
+- **IDEs**: Visual Studio Code, PyCharm, IntelliJ IDEA, Eclipse, Android Studio for enhanced productivity.
+- **Project Management**: Jira, Trello, Asana, ClickUp for organized workflows and agile project management.
+- **Documentation**: Swagger, Postman, Jupyter Notebook for API documentation, testing, and data analysis.
+- **Design**: Figma, Adobe XD, Sketch, InVision for prototyping and UI/UX design.
 
 ### 🔒 Cybersecurity
 - **Networking Fundamentals**: Knowledge of TCP/IP, UDP, DNS, HTTP/HTTPS, and routing concepts.
