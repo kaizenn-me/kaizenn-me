@@ -21,7 +21,6 @@ I'm **Kaizenn** 👋, a passionate **Full Stack Developer & Junior Cyber Securit
 - **C++**: Proficient in object-oriented programming, system programming, and algorithm optimization.
 - **C**: Memory management, low-level programming, and embedded systems development.
 - **Go**: Strong knowledge of concurrency, RESTful API development, and performance-oriented applications.
-- **PHP**: Basic (I Don't Learn Too Many Programming Languages)
 - **SQL**: Proficient in MySQL, PostgreSQL, with a focus on query optimization and complex database design.
 - **Ruby**: Experienced in web development with Ruby on Rails and dynamic scripting.
 - **Java**: Proficient in Java SE/EE, Spring Boot, and enterprise-level application development.
